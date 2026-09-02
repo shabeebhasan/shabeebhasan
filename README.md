@@ -13,7 +13,9 @@ I build AI systems and full-stack products that go into production and stay ther
 
 I work across the whole system. Backend, frontend, database, integrations, and the ML or LLM logic, designed around how the business actually runs rather than around the framework of the month.
 
-**Currently working on:** LLM application runtimes, RAG systems that answer from real documents, agent tooling on MCP servers, and behavioural AI research for a PhD at the University of Karachi.
+**Right now:** Artificial Intelligence Researcher at Regex. since April 2026, alongside client work through my studio [Baydot](https://baydot.net). Building LLM application runtimes, RAG systems that answer from real documents, and agent tooling on MCP servers.
+
+**Research background:** my MPhil at the University of Karachi applied probabilistic machine learning to detecting depression and anxiety levels from facial expressions, and a PhD in computer science is in progress. That is where the habit of validating a model honestly, rather than demoing it, comes from.
 
 ## What I build
 
@@ -43,6 +45,8 @@ I work across the whole system. Backend, frontend, database, integrations, and t
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -50,6 +54,8 @@ I work across the whole system. Backend, frontend, database, integrations, and t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ## Selected work
 
@@ -75,6 +81,10 @@ I write about the engineering decisions behind this work, not the hype around it
 <img src="assets/stats.png" alt="Public repositories, years on GitHub and the languages I ship in" width="100%">
 
 <sub>This card and the banner are generated from the GitHub API by <a href="scripts/make_cards.py">a small script in this repo</a> and refreshed weekly, so it never depends on a third party staying online.</sub>
+
+## CV
+
+Nine role-specific CVs (AI engineering, forward deployed engineering, data science, mobile, full-stack, PHP/Laravel, AWS, Python/Django, and an ATS-friendly one page) live at [shabeeb.baydot.net/resumes](https://shabeeb.baydot.net/resumes/).
 
 ## Working together
 
