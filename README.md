@@ -9,9 +9,9 @@
 
 ## Hi, I'm Shabeeb
 
-I build AI systems and full-stack products that go into production and stay there. Fourteen years in, 133 delivered projects, and the number I am proudest of: 71% of my work comes from clients who hired me again. One platform company came back 21 separate times, and my longest single engagement ran six years.
+I build AI systems and full-stack products that go into production and stay there. Fourteen years of that has taught me the part nobody demos: what happens after launch, when the data gets messy, the edge cases arrive and someone has to own the thing.
 
-I own the whole system. Backend, frontend, database, integrations, and the ML or LLM logic, designed around how the business actually runs rather than around the framework of the month.
+I work across the whole system. Backend, frontend, database, integrations, and the ML or LLM logic, designed around how the business actually runs rather than around the framework of the month.
 
 **Currently working on:** LLM application runtimes, RAG systems that answer from real documents, agent tooling on MCP servers, and behavioural AI research for a PhD at the University of Karachi.
 
@@ -55,17 +55,17 @@ I own the whole system. Backend, frontend, database, integrations, and the ML or
 
 Full write-ups with the decisions and trade-offs live at [shabeeb.baydot.net/case-studies](https://shabeeb.baydot.net/case-studies/).
 
-- **[Franco-fun referral rewards platform](https://shabeeb.baydot.net/case-studies/francofun-referral-rewards-platform/)** is a live SaaS I built solo, from schema to deployment. React 18, Django 5, PostgreSQL, Stripe.
-- **[Serverless video pipeline](https://shabeeb.baydot.net/case-studies/serverless-video-pipeline-ffmpeg-aws-lambda/)** runs FFmpeg encoding on AWS Lambda with an EC2 overflow tier. Seven contracts with the same client across five years.
-- **[OCR and document intelligence](https://shabeeb.baydot.net/case-studies/ocr-document-intelligence-pipeline/)** blends Tesseract and Cloud Vision, with low-confidence documents routed to a human. One pipeline stayed in production for six years.
-- **[Django at scale](https://shabeeb.baydot.net/case-studies/django-at-scale-21-contracts/)** covers 21 separate product contracts for one platform company between 2019 and 2025.
+- **[Franco-fun referral rewards platform](https://shabeeb.baydot.net/case-studies/francofun-referral-rewards-platform/)** is a live SaaS I built solo, from schema to deployment. React 18, Django 5, PostgreSQL, Stripe, with a reward ledger where every state change is auditable.
+- **[Serverless video pipeline](https://shabeeb.baydot.net/case-studies/serverless-video-pipeline-ffmpeg-aws-lambda/)** runs FFmpeg encoding on AWS Lambda with an EC2 overflow tier for jobs that outgrow it. Zero cost while idle, instant scale under load.
+- **[OCR and document intelligence](https://shabeeb.baydot.net/case-studies/ocr-document-intelligence-pipeline/)** blends Tesseract and Cloud Vision, routing low-confidence documents to a human because a wrong extraction costs more than a slow one.
+- **[Django at scale](https://shabeeb.baydot.net/case-studies/django-at-scale-21-contracts/)** is about delivering Django/DRF products on shared platform standards, where consistency and clean handovers matter more than cleverness.
 - **[Behavioural AI authentication](https://shabeeb.baydot.net/case-studies/behavioral-ai-authentication-mobile-sensor-signals/)** is phone-sensor continuous authentication, measured honestly rather than marketed.
 
 ## Writing
 
 I write about the engineering decisions behind this work, not the hype around it.
 
-- [Why 71% of my clients come back](https://shabeeb.baydot.net/blog/why-71-percent-of-my-clients-come-back-freelance-delivery-system/)
+- [Designing a secure multi-tenant database model with Supabase RLS](https://shabeeb.baydot.net/blog/designing-a-secure-multi-tenant-database-model-with-supabase-rls/)
 - [Continuous authentication with phone sensors, what actually works](https://shabeeb.baydot.net/blog/continuous-authentication-with-phone-sensors-what-actually-works/)
 - [How to build a RAG chatbot for business documents](https://shabeeb.baydot.net/blog/how-to-build-a-rag-chatbot-for-business-documents/)
 - [More on the blog](https://shabeeb.baydot.net/blog/)
@@ -74,10 +74,10 @@ I write about the engineering decisions behind this work, not the hype around it
 
 <img src="assets/stats.png" alt="Public repositories, years on GitHub and the languages I ship in" width="100%">
 
-<sub>This card is generated from the GitHub API by <a href="scripts/make_stats_card.py">a small script in this repo</a> and refreshed weekly, so it never depends on a third party staying online.</sub>
+<sub>This card and the banner are generated from the GitHub API by <a href="scripts/make_cards.py">a small script in this repo</a> and refreshed weekly, so it never depends on a third party staying online.</sub>
 
 ## Working together
 
-I take on AI application work, backend and platform builds, and the awkward projects where an existing system needs someone to take real ownership of it.
+I take on AI application work, backend and platform builds, and the awkward projects where an existing system needs someone to take real ownership of it. Long engagements and rescue work both welcome.
 
 **[Book a call](https://calendly.com/shabeebhasan/meeting-with-shabeeb-hasan)** or email **shabeebhasan@gmail.com**. Based in Karachi, Pakistan (UTC+5), working with teams across the US, Europe, Australia and the Gulf.
