@@ -72,10 +72,9 @@ I write about the engineering decisions behind this work, not the hype around it
 
 ## GitHub activity
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shabeebhasan&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeebhasan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
-</p>
+<img src="assets/stats.png" alt="Public repositories, years on GitHub and the languages I ship in" width="100%">
+
+<sub>This card is generated from the GitHub API by <a href="scripts/make_stats_card.py">a small script in this repo</a> and refreshed weekly, so it never depends on a third party staying online.</sub>
 
 ## Working together
 
