@@ -9,11 +9,11 @@
 
 ## Hi, I'm Shabeeb
 
-I build AI systems and full-stack products that go into production and stay there. Fourteen years of that has taught me the part nobody demos: what happens after launch, when the data gets messy, the edge cases arrive and someone has to own the thing.
+I build AI systems and full-stack products that go into production and stay there. Twelve years of that has taught me the part nobody demos: what happens after launch, when the data gets messy, the edge cases arrive and someone has to own the thing.
 
 I work across the whole system. Backend, frontend, database, integrations, and the ML or LLM logic, designed around how the business actually runs rather than around the framework of the month.
 
-**Right now:** Artificial Intelligence Researcher at Regex. since April 2026, alongside client work through my studio [Baydot](https://baydot.net). Building LLM application runtimes, RAG systems that answer from real documents, and agent tooling on MCP servers.
+**Right now:** Artificial Intelligence Researcher at Regex. since April 2026, alongside client work through my studio [Baydot](https://baydot.net). Building LLM application runtimes, RAG systems that answer from real documents, and agent tooling that keeps a human approval step in the loop.
 
 **Research background:** my MPhil at the University of Karachi applied probabilistic machine learning to detecting depression and anxiety levels from facial expressions, and a PhD in computer science is in progress. That is where the habit of validating a model honestly, rather than demoing it, comes from.
 
@@ -21,7 +21,7 @@ I work across the whole system. Backend, frontend, database, integrations, and t
 
 | | |
 |---|---|
-| **AI applications** | LLM apps, RAG chatbots over business documents, agent workflows with human approval gates, MCP server tooling |
+| **AI applications** | LLM apps, RAG over business documents, agent workflows with human approval gates, and fixes for integrations that have started failing |
 | **Machine learning** | Computer vision (YOLO, OpenCV), OCR pipelines, behavioural signal models, production inference services |
 | **SaaS platforms** | Multi-tenant products end to end: schema, API, payments, dashboards, deployment |
 | **Cloud and data** | Serverless pipelines on AWS Lambda, media processing, ETL, auto-scaling workers |
@@ -42,7 +42,6 @@ I work across the whole system. Backend, frontend, database, integrations, and t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -55,17 +54,20 @@ I work across the whole system. Backend, frontend, database, integrations, and t
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ## Selected work
 
 Full write-ups with the decisions and trade-offs live at [shabeeb.baydot.net/case-studies](https://shabeeb.baydot.net/case-studies/).
 
 - **[Franco-fun referral rewards platform](https://shabeeb.baydot.net/case-studies/francofun-referral-rewards-platform/)** is a live SaaS I built solo, from schema to deployment. React 18, Django 5, PostgreSQL, Stripe, with a reward ledger where every state change is auditable.
-- **[Serverless video pipeline](https://shabeeb.baydot.net/case-studies/serverless-video-pipeline-ffmpeg-aws-lambda/)** runs FFmpeg encoding on AWS Lambda with an EC2 overflow tier for jobs that outgrow it. Zero cost while idle, instant scale under load.
-- **[OCR and document intelligence](https://shabeeb.baydot.net/case-studies/ocr-document-intelligence-pipeline/)** blends Tesseract and Cloud Vision, routing low-confidence documents to a human because a wrong extraction costs more than a slow one.
-- **[Django at scale](https://shabeeb.baydot.net/case-studies/django-at-scale-21-contracts/)** is about delivering Django/DRF products on shared platform standards, where consistency and clean handovers matter more than cleverness.
-- **[Behavioural AI authentication](https://shabeeb.baydot.net/case-studies/behavioral-ai-authentication-mobile-sensor-signals/)** is phone-sensor continuous authentication, measured honestly rather than marketed.
+- **[Stripe to MailerLite: audit, then the fix](https://shabeeb.baydot.net/case-studies/stripe-mailerlite-subscription-flow-audit-and-fix/)** started with duplicate and missed onboarding emails. A two-day audit as its own milestone, written findings, then a second contract for the fix. January 2026.
+- **[Question answering over private documents with GPT-3](https://shabeeb.baydot.net/case-studies/gpt3-question-answering-private-documents-poc/)** is a February 2023 proof of concept: chunk, embed, retrieve by similarity, answer from the retrieved passages. The pattern now called RAG, in plain Python.
+- **[Native video modules inside a React Native app](https://shabeeb.baydot.net/case-studies/native-video-modules-react-native-ios-android/)** covers Android MediaCodec transcoding, then overlay and baking in native code on iOS and Android. Two contracts for one client, 2025 and 2026.
+- **[Serverless video pipeline](https://shabeeb.baydot.net/case-studies/serverless-video-pipeline-ffmpeg-aws-lambda/)** runs FFmpeg encoding on AWS Lambda with an EC2 overflow tier for jobs that outgrow it. Six contracts for one client between 2016 and 2018.
+- **[Document extraction backends](https://shabeeb.baydot.net/case-studies/ocr-document-intelligence-pipeline/)** run Google Vision OCR, then Document AI form processing, for a document scanning app, plus passport and licence OCR behind a React Native app.
+- **[Django at scale](https://shabeeb.baydot.net/case-studies/django-at-scale-21-contracts/)** is 21 contracts for one platform company between 2019 and 2025, backend and frontend work on their Django and React platform.
+- **[Behavioural AI authentication](https://shabeeb.baydot.net/case-studies/behavioral-ai-authentication-mobile-sensor-signals/)** is phone-sensor continuous authentication, a proof of concept measured honestly rather than marketed.
 
 ## Writing
 

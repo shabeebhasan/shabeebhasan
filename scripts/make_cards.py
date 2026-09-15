@@ -6,7 +6,7 @@ USER = "shabeebhasan"
 FIRST_LINE = "Shabeeb Hasan"
 ROLE = "Senior AI & Full-Stack Software Engineer"
 FOCUS = "LLM apps  ·  RAG  ·  AI agents  ·  SaaS platforms  ·  Cloud & mobile"
-YEARS_SHIPPING = "14+"
+YEARS_SHIPPING = "12+"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 FONTS = "/System/Library/Fonts/Supplemental/"
