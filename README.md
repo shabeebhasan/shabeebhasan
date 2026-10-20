@@ -94,4 +94,4 @@ Nine role-specific CVs (AI engineering, forward deployed engineering, data scien
 
 I take on AI application work, backend and platform builds, and the awkward projects where an existing system needs someone to take real ownership of it. Long engagements and rescue work both welcome.
 
-**[Book a call](https://calendly.com/shabeebhasan/meeting-with-shabeeb-hasan)** or email **shabeebhasan@gmail.com**. Based in Karachi, Pakistan (UTC+5), working with teams across the US, Europe, Australia and the Gulf.
+**[Book a call](https://calendly.com/shabeebhasan-r5ny/30min)** or email **shabeebhasan@gmail.com**. Based in Karachi, Pakistan (UTC+5), working with teams across the US, Europe, Australia and the Gulf.
