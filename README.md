@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Shabeeb Hasan, Senior AI and Full-Stack Software Engineer" width="100%">
+<img src="assets/banner.png" alt="Shabeeb Hasan, Senior AI Full-Stack Engineer" width="100%">
 
 <p align="center">
   <a href="https://shabeeb.baydot.net"><img src="https://img.shields.io/badge/Portfolio-shabeeb.baydot.net-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>

@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 USER = "shabeebhasan"
 FIRST_LINE = "Shabeeb Hasan"
-ROLE = "Senior AI & Full-Stack Software Engineer"
+ROLE = "Senior AI Full-Stack Engineer"
 FOCUS = "LLM apps  ·  RAG  ·  AI agents  ·  SaaS platforms  ·  Cloud & mobile"
 YEARS_SHIPPING = "12+"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
